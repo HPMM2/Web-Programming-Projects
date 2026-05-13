@@ -1,0 +1,36 @@
+html>
+    <head>
+<style type="text/css">
+    body {
+        color: purple;
+        background-color: #d8da3d }
+
+        #seccion1 {
+            font-size: 48px;
+            text-align: center;
+            background-image: url(https://th.bing.com/th/id/OIP.dxCPgXvc1ckG5AnoWkmDWwHaD6?w=338&h=180&c=7&r=0&o=5&pid=1.7);
+            background-size: contain;
+        }
+        #proyectos {
+            display: grid;
+            grid-template-columns: auto auto;
+
+        }
+        .proyecto img {
+            withd: 50%;
+        }
+        </style>
+    </head>
+    <body>
+        <section id="seccion1">
+            <h1>Bienvenidos!<h1>
+        </section>
+        <section> id="proyectos">
+            
+            <img src='https://th.bing.com/th/id/OIP.dxCPgXvc1ckG5AnoWkmDWwHaD6?w=338&h=180&c=7&r=0&o=5&pid=1.7'>
+            <p>fime</p>
+            <img src='https://th.bing.com/th/id/OIP.dxCPgXvc1ckG5AnoWkmDWwHaD6?w=338&h=180&c=7&r=0&o=5&pid=1.7'>
+            <p>fimeuanl</p>
+        </section>
+    </body>
+</html>
